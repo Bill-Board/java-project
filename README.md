@@ -1,6 +1,8 @@
 # java-project
 Hotel Management System
+
 Project Title:
+
 Mention the name of the project or a meaningful title.
 
 Overview:
