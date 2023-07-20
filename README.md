@@ -1,9 +1,7 @@
 # java-project
 Hotel Management System
 
-Project Title:
-
-Mention the name of the project or a meaningful title.
+/*Project Title: Mention the name of the project or a meaningful title.
 
 Overview:
 Briefly introduce the project, explaining its purpose and main functionalities.
