@@ -4,25 +4,28 @@
 - Java
 - MySQL
 
+## Key features:
+>  **Authentication**
+
+>  **Authorization**
+
+>  **Customer Records**
+
+>  **Room Booking**
 
 ## Roles/Users
 - Admin
-- Rceptionist
-
+- Receptionist
+  
 ### Admin
 - Can register here using ID and Password.
 - Can control All the system.
   
-### Resiptionist
+### Receptionist
 - Check weather customer old or new.
 - Can register a new customer.
 - Room booking for customers.
 - Is room availavle or not?
 - Room no x is available or not.
 
-## Key features:
->  **Authentication and Authorization:**
 
->  **Customer Records:**
-
->  **Room Booking:**
