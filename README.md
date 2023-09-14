@@ -1,5 +1,5 @@
 [ASH1811022 ,Hotel Management System.docx](https://github.com/Bill-Board/java-project/files/12113598/ASH1811022.Hotel.Management.System.docx)
-# Hotel Management System
+# Hotel Management System Using Java and MySQL
 ## Technology Used
 - Java
 - MySQL
